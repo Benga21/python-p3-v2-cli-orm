@@ -1,5 +1,5 @@
-from models.__init__ import CONN, CURSOR
-from models.department import Department
+from lib. models.__init__ import CONN, CURSOR
+from  lib.models.department import Department
 import pytest
 
 

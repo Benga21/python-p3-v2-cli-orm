@@ -1,4 +1,4 @@
-from models.department import Department
+from lib. models.department import Department
 import pytest
 
 

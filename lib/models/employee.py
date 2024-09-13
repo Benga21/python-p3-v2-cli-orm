@@ -1,6 +1,6 @@
 # lib/models/employee.py
-from models.__init__ import CURSOR, CONN
-from models.department import Department
+from  lib.models.__init__ import CURSOR, CONN
+from lib. models.department import Department
 
 
 class Employee:

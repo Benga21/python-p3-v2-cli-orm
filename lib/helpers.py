@@ -1,5 +1,5 @@
-from models.department import Department
-from models.employee import Employee
+from lib. models.department import Department
+from lib. models.employee import Employee
 
 
 def exit_program():

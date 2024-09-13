@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
-from models.__init__ import CONN, CURSOR
-from models.department import Department
-from models.employee import Employee
+from lib.models.__init__ import CONN, CURSOR
+from lib. models.department import Department
+from lib. models.employee import Employee
 
 def seed_database():
     Employee.drop_table()
